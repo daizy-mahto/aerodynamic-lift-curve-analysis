@@ -1,16 +1,15 @@
-## Hi there 👋
+## Aerodynamic Lift and Stall Analysis using MATLAB
 
-<!--
-**daizy-mahto/Daizy-Mahto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project models the variation of lift coefficient with angle of attack using thin airfoil theory.
 
-Here are some ideas to get you started:
+Features:
+-Comparison of theoretical and approximate lift slope
+-Stall simulation beyond critical angle
+-Lift force computation using aerodynamic lift equation
+-Visualization of lift curve using MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concept used:
+Thin Airfoil Theory
+Lift Equation
+Stall Modelling
+Aerodynamic Data Visualization
