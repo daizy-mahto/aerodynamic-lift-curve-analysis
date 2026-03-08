@@ -11,15 +11,18 @@ The MATLAB script compares theoretical lift slope with a simplified approximatio
 -Visualization of aerodynamic behaviour using MATLAB plots
 
 ## Concept used
-Thin Airfoil Theory
-Lift Equation
-Stall Modelling
-Aerodynamic Data Visualization
+-Thin Airfoil Theory
+-Lift Equation
+-Stall Modelling
+-Aerodynamic Data Visualization
 
 ## Files
 -'lift_stall_analysis.m' -MATLAB script for aerodynamic lift and stall modelling
 
 ## Author
 Daizy
-Aerospace Engineering Student
-Punjab State Aeronautical Engineering College
+-Aerospace Engineering Student
+-Punjab State Aeronautical Engineering College
+
+## Lift Curve Visualization
+![Lift Curve](lift_curve_plot.png)
